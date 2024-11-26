@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\bin\Debug\net8.0\Domashna_rabora.Next.exe
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\bin\Debug\net8.0\Domashna_rabora.Next.deps.json
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\bin\Debug\net8.0\Domashna_rabora.Next.runtimeconfig.json
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\bin\Debug\net8.0\Domashna_rabora.Next.dll
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\bin\Debug\net8.0\Domashna_rabora.Next.pdb
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.dll
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\refint\Domashna_rabora.Next.dll
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.pdb
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\Domashna_rabora.Next.genruntimeconfig.cache
+C:\Users\User\source\repos\Domashna_rabora.Next\Domashna_rabora.Next\obj\Debug\net8.0\ref\Domashna_rabora.Next.dll
